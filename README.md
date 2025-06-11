@@ -1,10 +1,17 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=butERRORfly&custom_title=Contribution%20graph&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# _Public repos_
+**IT-project-[d]** is a training project written in FastAPI and React dedicated to development MVP of Planning Adventures.
+<br>
+**Nvim-[w]** is a simple config for Neovim (probably MacOS), including the kanagawa theme. Used with iTerm2.
+<br>
+<br>
+_d - done, w - in work_
 
-<div align="center">
-  <a href="https://github.com/butERRORfly/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=butERRORfly&rank_icon=github&theme=tokyonight&show=lines_of_code&hide=issues" />
-  </a>
+# _Private repos_
+Well, there are enough of them.
+
+# _Stats_
+<div>
   <a href="https://github.com/butERRORfly/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=butERRORfly&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=butERRORfly&layout=compact&langs_count=8&card_width=220&theme=dark" />
   </a>
 </div>
