@@ -12,6 +12,6 @@ Well, there are enough of them.
 # _Stats_
 <div>
   <a href="https://github.com/butERRORfly/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=butERRORfly&layout=compact&langs_count=8&card_width=220&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=butERRORfly&layout=compact&langs_count=12&card_width=220&theme=dark" />
   </a>
 </div>
